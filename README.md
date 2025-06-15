@@ -3,7 +3,7 @@ Practice patterns to build logic
 
 ## Patterns
 
-1. 
+1. [code](1.js)
     ```
     *****
     *****
