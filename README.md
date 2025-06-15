@@ -11,7 +11,7 @@ Practice patterns to build logic
     *****
     ```
 
-2. 
+2. [code](2.js)
     ```
     *
     **
@@ -19,7 +19,7 @@ Practice patterns to build logic
     ****
     ```
 
-3. 
+3. [code](3.js)
     ```
     1
     12
@@ -27,7 +27,7 @@ Practice patterns to build logic
     1234
     ```
 
-4. 
+4. [code](4.js)
     ```
     1
     22
