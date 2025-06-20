@@ -10,4 +10,4 @@ function printPattern(n){
     }
 }
 
-printPattern(4)
+printPattern(5)
