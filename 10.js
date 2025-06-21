@@ -1,14 +1,15 @@
-function printPattern(n){
+
+function printPatterns(n){
     for(let i=0; i<n; i++){
-        let row='';
+        row = '';
         for(let j=0; j<n-i+1; j++){
             row = row + ' ';
         }
         for(let k=0; k<i+1; k++){
-            row = row + (i+1);
+            row = row + '*'
         }
         console.log(row)
     }
 }
 
-printPattern(5)
+printPatterns(5)

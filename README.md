@@ -70,3 +70,10 @@ Practice patterns to build logic
     101
     0101
     ```
+10. [code](10.js)
+    ```
+        *
+       **
+      ***
+     ****
+    ```
